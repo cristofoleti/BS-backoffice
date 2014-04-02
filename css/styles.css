@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+#rounded-corner thead th.rounded-company{ background: #b9c9fe url("http://bodysystems.net/_ferramentas/backoffice/images/left.png") left -1px no-repeat; }
+#rounded-corner th { font-weight: normal; font-size: 13px; color: #039; background: #b9c9fe; padding: 8px; }
+#rounded-corner thead th.rounded-q4 { background: #b9c9fe url("http://bodysystems.net/_ferramentas/backoffice/images/right.png") right -1px no-repeat; }
+#rounded-corner tfoot td.rounded-foot-left { background: #e8edff url("http://bodysystems.net/_ferramentas/backoffice/images/botleft.png") left bottom no-repeat; }
+#rounded-corner tfoot td.rounded-foot-right { background: #e8edff url("http://bodysystems.net/_ferramentas/backoffice/images/botright.png") right bottom no-repeat; }
+
+#rounded-corner tfoot td { background: #e8edff; }
+#rounded-corner tfoot td.rounded-foot-left { background: #e8edff url("http://bodysystems.net/_ferramentas/backoffice/images/botleft.png") left bottom no-repeat; }
+#rounded-corner tfoot td.rounded-foot-right {background: #e8edff url("http://bodysystems.net/_ferramentas/backoffice/images/botright.png") right bottom no-repeat;}
+
+#rounded-corner td {background: #e8edff;border-top: 0px solid #fff;color: #669;padding: 8px;}
+
+#tbl_boletos td { background: #f7f8fc; }
+#tbl_pagseguro td { background: #f7f8fc; }
+#tbl_mercadopago td { background: #f7f8fc; }
+
+.pesquisar_txt{
+		border-top-style:none;
+		border-left-style:none;
+		border-right-style:none;
+		border-bottom-style:groove; 
+		border-bottom-color:#000000; border-bottom-width:1px; 
+		background-color:transparent;
+	}
